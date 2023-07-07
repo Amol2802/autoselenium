@@ -9,6 +9,8 @@ public class Company {
 	
 	public static void main(String[] args) {
 	
+		 System.out.println("2nd commit");
+		
 		  System.out.println("starting point");
   	      log.info("Info Message!");
 	      log.error("Error Message!");
