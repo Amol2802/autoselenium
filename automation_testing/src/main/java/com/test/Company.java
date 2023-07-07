@@ -11,6 +11,7 @@ public class Company {
 	
 		 System.out.println("2nd commit");
 		
+		 System.out.println("3nd commit");
 		  System.out.println("starting point");
   	      log.info("Info Message!");
 	      log.error("Error Message!");
